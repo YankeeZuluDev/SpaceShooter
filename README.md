@@ -3,7 +3,7 @@
 
 [:camera: **See Screenshots**](#screenshots)
 
-[:video_game: **Play**](https://play.google.com/store/apps/details?id=com.YankeeZulu.MatchTiles)
+[:movie_camera: **See gameplay video**](https://www.youtube.com/watch?v=NOP6gJwBkbc)
 
 ## About the game
 Genre: arcade
