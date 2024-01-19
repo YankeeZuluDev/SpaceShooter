@@ -1,0 +1,6 @@
+- Check Req. component everywhere
+- Выложить
+
+Post release: 
+- Additional score for destroying meteor with space ship body while invincible
+- Gold Rush buff

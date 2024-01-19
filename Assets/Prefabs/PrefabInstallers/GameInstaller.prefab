@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1633450350078234137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8512062417706759313}
+  - component: {fileID: 6800346622024335349}
+  m_Layer: 0
+  m_Name: GameInstaller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8512062417706759313
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633450350078234137}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6800346622024335349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633450350078234137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b56dc2debd8f8c489e7726cdaa8a84a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputHandlerPrefab: {fileID: 903678459142098354, guid: 69821105a609ea149a7d9ce9fda0e2cd, type: 3}
+  bulletPoolPrefab: {fileID: 539336626860345293, guid: 60c2ea4654f2dc14ebffda094d1b7d87, type: 3}
+  meteorPoolPrefab: {fileID: 6092177729275085745, guid: 868df4d7a4cfdd048a294f19ee3285a5, type: 3}
+  explosionPoolPrefab: {fileID: 2380322536068999636, guid: c3eff29d47037e34f8a9fde968ce1bb7, type: 3}
+  scorePopupPoolPrefab: {fileID: 8181694295512315531, guid: aa612b694daa7ae40a5d0c6c93685e18, type: 3}
+  meteorSpawnerPrefab: {fileID: 7833653572022304334, guid: c74dafcde1922ca498e8d31fcccda747, type: 3}
+  buffSpawnerPrefab: {fileID: 5558467353475609109, guid: 3b749ddf9923fa34a8651bbf26f4ce87, type: 3}
+  playerPrefab: {fileID: 2993251722290084501, guid: 3891138a1b0a98d439f392b3ea05e2f4, type: 3}
+  screenInfoKeeperPrefab: {fileID: 7837308213214449401, guid: d31ca02bc862c034ea991a382720ad49, type: 3}
+  scoreManagerPrefab: {fileID: 88723275589770190, guid: 354cd56e3cc9ceb448992728ea71b721, type: 3}
+  uIManagerPrefab: {fileID: 6089430343548597372, guid: 5fd6de03ea101904f9c65c702d51cba2, type: 3}
+  audioManagerPrefab: {fileID: 8639891575267587549, guid: 2cece956ac148e94bbef0916bd9aec86, type: 3}
+  cameraPrefab: {fileID: 3290156287530120016, guid: 40974c72ad18a46459681fbee22de42e, type: 3}
+  backgroundManagerPrefab: {fileID: 1711554488419808776, guid: 4d4a60abfd032a74ab782cf51530da8e, type: 3}
